@@ -1,0 +1,25 @@
+{
+  "name": "zxomegaxan_js_footer",
+  "version": "0.1.0",
+  "description": "A dynamic footer generated for JS apps with updated date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZXomegaXAN/ZXomegaXAN_js_footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Xander Fredrickson <xsfred7@gmail.com> (http://www.ZXomegaXAN.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZXomegaXAN/ZXomegaXAN_js_footer/issues"
+  },
+  "homepage": "https://github.com/ZXomegaXAN/ZXomegaXAN_js_footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
